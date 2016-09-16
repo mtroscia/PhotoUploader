@@ -1,0 +1,12 @@
+com\servlets\GetThumbnail.class
+com\servlets\Registration.class
+com\servlets\Delete.class
+com\servlets\UploadProgress.class
+com\servlets\Login.class
+com\Progress.class
+com\servlets\GetPhotosList.class
+com\servlets\Logout.class
+com\servlets\Download.class
+com\servlets\Upload.class
+com\filters\JspPages.class
+com\filters\Index.class
